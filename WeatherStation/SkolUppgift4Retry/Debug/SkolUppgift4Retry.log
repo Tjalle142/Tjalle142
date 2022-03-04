@@ -1,0 +1,5 @@
+﻿  SkolUppgift4Retry.cpp
+C:\Users\Cmorg\source\repos\SkolUppgift4Retry\SkolUppgift4Retry\SkolUppgift4Retry.cpp(59,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cmorg\source\repos\SkolUppgift4Retry\SkolUppgift4Retry\SkolUppgift4Retry.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cmorg\source\repos\SkolUppgift4Retry\SkolUppgift4Retry\SkolUppgift4Retry.cpp(133,20): warning C4018: '<': signed/unsigned mismatch
+  SkolUppgift4Retry.vcxproj -> C:\Users\Cmorg\source\repos\SkolUppgift4Retry\Debug\SkolUppgift4Retry.exe
