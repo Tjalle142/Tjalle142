@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tjalle142
+- 👋 Hi, I’m @Tjalle142 I've been programming for a short period of time doing my best to learn more everyday
 - 👀 I’m interested in Programming and learning everything about computers in general
 - 🌱 I’m currently learning Programming with C++, C# and Python
 - 💞️ I’m looking to collaborate on Anything really
